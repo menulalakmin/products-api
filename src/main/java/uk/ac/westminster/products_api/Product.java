@@ -12,7 +12,6 @@ public class Product {
 
     public Product(){ //This allows Java/Spring to create a
                       // Product without needing any information yet
-
     }
 
     public Product(Long id, String name, double price){
